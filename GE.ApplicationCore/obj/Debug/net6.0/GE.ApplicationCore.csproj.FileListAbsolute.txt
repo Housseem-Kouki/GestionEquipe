@@ -1,0 +1,12 @@
+C:\Users\Kouki\Desktop\Esprit\4eme\C#\Test1\GE.ApplicationCore\bin\Debug\net6.0\GE.ApplicationCore.deps.json
+C:\Users\Kouki\Desktop\Esprit\4eme\C#\Test1\GE.ApplicationCore\bin\Debug\net6.0\GE.ApplicationCore.dll
+C:\Users\Kouki\Desktop\Esprit\4eme\C#\Test1\GE.ApplicationCore\bin\Debug\net6.0\GE.ApplicationCore.pdb
+C:\Users\Kouki\Desktop\Esprit\4eme\C#\Test1\GE.ApplicationCore\obj\Debug\net6.0\GE.ApplicationCore.csproj.AssemblyReference.cache
+C:\Users\Kouki\Desktop\Esprit\4eme\C#\Test1\GE.ApplicationCore\obj\Debug\net6.0\GE.ApplicationCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kouki\Desktop\Esprit\4eme\C#\Test1\GE.ApplicationCore\obj\Debug\net6.0\GE.ApplicationCore.AssemblyInfoInputs.cache
+C:\Users\Kouki\Desktop\Esprit\4eme\C#\Test1\GE.ApplicationCore\obj\Debug\net6.0\GE.ApplicationCore.AssemblyInfo.cs
+C:\Users\Kouki\Desktop\Esprit\4eme\C#\Test1\GE.ApplicationCore\obj\Debug\net6.0\GE.ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\Kouki\Desktop\Esprit\4eme\C#\Test1\GE.ApplicationCore\obj\Debug\net6.0\GE.ApplicationCore.dll
+C:\Users\Kouki\Desktop\Esprit\4eme\C#\Test1\GE.ApplicationCore\obj\Debug\net6.0\refint\GE.ApplicationCore.dll
+C:\Users\Kouki\Desktop\Esprit\4eme\C#\Test1\GE.ApplicationCore\obj\Debug\net6.0\GE.ApplicationCore.pdb
+C:\Users\Kouki\Desktop\Esprit\4eme\C#\Test1\GE.ApplicationCore\obj\Debug\net6.0\ref\GE.ApplicationCore.dll
